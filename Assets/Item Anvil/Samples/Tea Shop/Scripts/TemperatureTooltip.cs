@@ -1,0 +1,28 @@
+using rmMinusR.ItemAnvil.UI;
+using rmMinusR.Tooltips;
+using TMPro;
+using UnityEngine;
+
+public class TemperatureTooltip : TooltipPart
+{
+    [SerializeField] private TMP_Text text;
+    [SerializeField] private string format = "{0} °F";
+
+    Temperature temperature;
+
+    protected override void UpdateTarget(Tooltippable newTarget)
+    {
+        if (newTarget.TryGetComponent(out ViewInventorySlot view))
+        {
+            temperature = view.mostRecentStack.instanceProperties.Get<Temperature>();
+        }
+        else temperature = null;
+
+        gameObject.SetActive(temperature != null);
+    }
+
+    private void Update()
+    {
+        if (temperature != null) text.text = string.Format(format, temperature.temperature);
+    }
+}
