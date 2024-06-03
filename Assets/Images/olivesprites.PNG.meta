@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: 65cfbd5fa908fe142b52fbb7a5557609
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: olivesprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd788e2fcc2c5c747b43c78acb78d2f3
+      internalID: -1089808408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 741.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa11ffa516d0a2b4e94461575011f882
+      internalID: 882008497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 741.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a9bad5b0f9b344991e448c5701feb1
+      internalID: -2142486937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e09cf522334f84a98a91c4859866f9
+      internalID: -119766760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 667.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26edbf89485e9f142bb3e89aeb5eec82
+      internalID: 374246778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 667.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd08a91d76d2de3498a1715f23097dc9
+      internalID: 1058010735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e60453e47185b4faacd62ea3706fd1
+      internalID: -1900859324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 593.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca026d2e5854bbd459f7719c7f2f4287
+      internalID: 1395186375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 593.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1707f25611eaef4984d1dc2d74a5f0b
+      internalID: 141536469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbefb085e320e441bcb0afb24089f79
+      internalID: -1542789725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 519.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aae393886ee9b46b26a396279498be
+      internalID: -2141091722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 519.8182
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45abada6741c57d43948e4f82a098aa9
+      internalID: 921787654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212428f015ba2b4e9cb6b47fb3bd3d3
+      internalID: -168728611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 445.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e19a837ba8b4429eb2fa0e8740fb5
+      internalID: -1450779308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 445.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47115d3e126b644e893e7c5121f3dbe
+      internalID: -1448461526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5436203b7f5b748b425696b2612d84
+      internalID: 968412866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 371.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ca1593830be441ae24320a2770724
+      internalID: -775943987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 371.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbce869437e4c9f4987ce687ff8cf7a8
+      internalID: -213015408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20721cb21208d2c469170e9881734c71
+      internalID: 1941302861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 297.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d0f89fb9113347a631a918c80c1f0
+      internalID: 625840635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 297.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198188398acc0f0498c8fb4d28adee57
+      internalID: -1876710630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd4e566efe40c64591b337ca5e95276
+      internalID: 1551935116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 223.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcdf7caf4a2ceb4e8165839fd06a4f0
+      internalID: 1600030450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 223.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6278c1d111b3d3499cb8dff09d21bcf
+      internalID: 920112445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b67c601fb370e54db4b1e394b4b6c7b
+      internalID: -361186520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 149.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a124b47649bf48afee90554eb7349
+      internalID: 1519657394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 149.81818
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6504c2e34855cbc41a5355bf1ba6c22e
+      internalID: 362359334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75.818184
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4030ed53e35eeba4e95837fb43545604
+      internalID: -32968616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75.818184
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e504e29310388428a3faf0f84440e9
+      internalID: 1033323691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75.818184
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d140346e9bfee449c43e4be350db5b
+      internalID: -2142782354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.8181839
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194df080976b0a0449d17ffd47ca4b1e
+      internalID: 1314174644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1.8181839
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e933338f8885c547ade36bc07e299ad
+      internalID: -629706815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olivesprites_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1.8181839
+        width: 76
+        height: 74.181816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077c4a75e1b120d438c0b886e1cef84d
+      internalID: 605702095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d3c71dd7bc888e44bb91e0c09ba5a9ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      olivesprites_7: 1395186375
+      olivesprites_20: -1876710630
+      olivesprites_22: 1600030450
+      olivesprites_17: -213015408
+      olivesprites_25: 1519657394
+      olivesprites_11: 921787654
+      olivesprites_28: 1033323691
+      olivesprites_9: -1542789725
+      olivesprites_2: -2142486937
+      olivesprites_4: 374246778
+      olivesprites_27: -32968616
+      olivesprites_16: -775943987
+      olivesprites_0: -1089808408
+      olivesprites_8: 141536469
+      olivesprites_6: -1900859324
+      olivesprites_23: 920112445
+      olivesprites_19: 625840635
+      olivesprites_24: -361186520
+      olivesprites_3: -119766760
+      olivesprites_13: -1450779308
+      olivesprites_21: 1551935116
+      olivesprites_30: 1314174644
+      olivesprites_32: 605702095
+      olivesprites_12: -168728611
+      olivesprites_29: -2142782354
+      olivesprites_10: -2141091722
+      olivesprites_15: 968412866
+      olivesprites_31: -629706815
+      olivesprites_1: 882008497
+      olivesprites_26: 362359334
+      olivesprites_14: -1448461526
+      olivesprites_18: 1941302861
+      olivesprites_5: 1058010735
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

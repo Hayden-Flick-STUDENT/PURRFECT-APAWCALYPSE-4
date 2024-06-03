@@ -9,12 +9,14 @@ public class GameController : MonoBehaviour
     public GameObject zombie;
     public Transform spawn;
     public SimpleSmoothMouseLook mouseScript;
+    public GameObject display;
 
     // Start is called before the first frame update
     void Start()
     {
         button.onClick.AddListener(TaskOnClick);
         mouseScript.lockCursor = false;
+        display.SetActive(false);
     }
 
     // Update is called once per frame
@@ -25,6 +27,7 @@ public class GameController : MonoBehaviour
     void TaskOnClick()
     {
         start.SetActive(false);
+        display.SetActive(true);
         StartCoroutine(Spawn());
         mouseScript.lockCursor = true;
     }
